@@ -28,7 +28,7 @@
 <nav>
     <ul class="cd-primary-nav">
         <li><a href="about.php">A propos</a></li>
-        <li><a href="about.php">A propos</a></li>
+        <li><a href="services.php">Mes services</a></li>
         <li><a href="about.php">A propos</a></li>
         <li><a href="about.php">A propos</a></li>
         <li><a href="about.php">A propos</a></li>

@@ -6,7 +6,7 @@ include('header.php');
         <section id="header">
             <div class="container">
                 <div class="row">
-                    <div class="text-center padvh25">
+                    <div class="text-center padvh25 wow animated bounceInDown" data-wow-duration="1s">
                         <hr>
                     <h1>Developpeur & Designer Web</h1>
                         <hr>
@@ -29,10 +29,10 @@ include('header.php');
         <section id="about" class="pad50">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-xs-12">
-                        <img src="img/award.png" alt="">
+                    <div class="col-md-6 col-xs-12 wow bounceInLeft">
+                        <img src="img/ava.png" alt="" width="400px">
                     </div>
-                    <div class="col-md-6  col-xs-12 pad90">
+                    <div class="col-md-6  col-xs-12 pad45 animated bounceInRight wow">
                         <p><b>Hi, i’m Paul Lapkin, Experience Crafter from Canada.</b></p>
                         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquipex ea commodo consequat.
                         <br><br><br>
@@ -46,7 +46,7 @@ include('header.php');
         <section id="services">
             <div class="container">
                 <div class="row">
-                    <div class="text-center pad90">
+                    <div class="text-center pad90 wow bounceInDown">
                         <h2>
                             Mes services
                         </h2>
@@ -58,27 +58,27 @@ include('header.php');
                 <div class="main">
                     <ul id="og-grid" class="og-grid">
                         <li>
-                            <a href="#" data-title="Analyse"data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
-                                <img src="img/analyse.png" alt="img01"/>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" data-title="Design" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
+                            <a href="#" class="wow bounceInLeft" data-title="Design" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
                                 <img src="img/design.png" alt="img01"/>
                             </a>
                         </li>
                         <li>
-                            <a href="#" data-title="Développement" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
+                            <a href="#" class="wow bounceInUp" data-title="Développement" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
                                 <img src="img/dev.png" alt="img01"/>
                             </a>
                         </li>
                         <li>
-                            <a href="#" data-title="Référencement" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
+                            <a href="#" class="wow bounceInDown" data-title="Référencement" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
                                 <img src="img/seo.png" alt="img01"/>
                             </a>
                         </li>
                         <li>
-                            <a href="#" data-title="Tracking" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
+                            <a href="#" class="wow bounceInUp" data-title="Social Media Optimization"data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
+                                <img src="img/smo.png" alt="img01"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="wow bounceInRight" data-title="Tracking" data-description="Cabbage bamboo shoot broccoli rabe chickpea chard sea lettuce lettuce ricebean artichoke earthnut pea aubergine okra brussels sprout avocado tomato.">
                                 <img src="img/tracking.png" alt="img01"/>
                             </a>
                         </li>
@@ -89,15 +89,15 @@ include('header.php');
         <section id="work">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-12 col-md-6 text-center pad30">
+                    <div class="col-xs-12 col-md-6 text-center pad30 wow fadeInLeft" >
                         <h2>
                             Mes travaux
                         </h2>
                         <div class="pad20">
-                        <a href="#">Consulter mon portfolio</a>
+                        <a href="portfolio.php">Consulter mon portfolio</a>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-md-6 text-center pad30">
+                    <div class="col-xs-12 col-md-6 text-center pad30 wow fadeInRight">
                         <h2>
                             Expérience
                         </h2>
