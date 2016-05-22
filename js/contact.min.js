@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){function l(){var l=a(".floating-labels .cd-label").next();l.each(function(){var l=a(this);e(l),l.on("change keyup",function(){e(l)})})}function e(a){""==a.val()?a.prev(".cd-label").removeClass("float"):a.prev(".cd-label").addClass("float")}a(".floating-labels").length>0&&l()});
