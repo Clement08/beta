@@ -27,10 +27,11 @@
 
 <nav>
     <ul class="cd-primary-nav">
+        <li><a href="index.php">Accueil</a></li>
         <li><a href="about.php">A propos</a></li>
         <li><a href="services.php">Mes services</a></li>
-        <li><a href="about.php">A propos</a></li>
-        <li><a href="about.php">A propos</a></li>
-        <li><a href="about.php">A propos</a></li>
+        <li><a href="portfolio.php">Mes projets</a></li>
+        <li><a href="#">Mon CV</a></li>
+        <li><a href="contact.php">Contact</a></li>
     </ul>
 </nav>

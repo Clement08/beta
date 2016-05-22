@@ -23,6 +23,7 @@
 <script src="js/contact.min.js"></script>
 <script src="js/nav.min.js"></script>
 <script src="js/backtotop.min.js"></script>
+<script src="js/portfolio.min.js"></script>
 <script>
     $(function() {
         cbpFixedScrollLayout.init();
