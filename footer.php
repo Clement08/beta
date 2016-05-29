@@ -38,5 +38,9 @@
 <script>
   new WOW().init();
 </script>
+<script>
+$('.carousel').carousel();  
+</script>
+</script>
 </body>
 </html>
