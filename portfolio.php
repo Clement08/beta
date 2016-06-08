@@ -38,7 +38,7 @@ include('header.php');
                     <br>
                 Makeevent propose de personnaliser soi-même son évènement très facilement.
                 </p>
-                <a href="#">Decouvrir</a>
+                <a href="project3.php">Decouvrir</a>
             </div>
         </div>
     </div>

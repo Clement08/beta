@@ -313,12 +313,20 @@
   -moz-transition: background 0.2s;
   transition: background 0.2s;
 }
-.no-touch .cd-primary-nav a:hover {
+.cd-primary-nav a:hover {
   background-color: transparent;
   border: 1px solid #FF2B4A;
   text-decoration: none;
   color:white;
+  letter-spacing: 2px;
+}
 
+.cd-primary-nav a:active {
+  background-color: transparent;
+  border: 1px solid #FF2B4A;
+  text-decoration: none;
+  color:white;
+  letter-spacing: 2px;
 }
 
 .cd-primary-nav.is-visible {

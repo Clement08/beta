@@ -62,3 +62,41 @@
 .project3 {
   background-color: #26c6da !important;
 }
+#project3 {
+  background-color: #46b5ac;
+}
+#project3 .project3-infos {
+  padding-top: 34vh;
+}
+#project3 .project3-infos p {
+  font-family: Roboto;
+  font-weight: 300;
+  color: white;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin: 0 auto;
+}
+#project3 .project3-infos i {
+  color: white;
+}
+.makeevent_video {
+  margin: 0 auto;
+  text-align: center;
+  width: 600px;
+  padding-bottom: 10vh;
+}
+.makeevent_video_title h4 {
+  padding-top: 3vh;
+  font-family: raleway;
+  color: white;
+  font-size: 23px;
+  text-transform: uppercase;
+}
+.makeevent_video_title p {
+  font-family: Roboto;
+  font-weight: 300;
+  color: white;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin: 0 auto;
+}
