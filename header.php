@@ -13,6 +13,7 @@
     <script src="https://use.fontawesome.com/09570d95f3.js"></script>
 
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
