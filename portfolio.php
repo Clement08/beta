@@ -15,7 +15,7 @@ include('header.php');
                     <br>
                 Découverte des oeuvres d'art de la Défense.
                 </p>
-                <a href="#">Decouvrir</a>
+                <a href="project1.php">Decouvrir</a>
             </div>
         </div>
     </div>
@@ -25,7 +25,7 @@ include('header.php');
             <div class="row text-center">
                 <h4>Ora</h4>
                 <p>Application Android Coach Sportif, Ora motive son utilisateur à faire du sport en lui proposant des exercices et en lui permettant de regarder des vidéos sur la santé et le sport.</p>
-                <a href="#">Decouvrir</a>
+                <a href="http://clement-marie.fr/ora" target="_blank">Decouvrir</a>
             </div>
         </div>
     </div>

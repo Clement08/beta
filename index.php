@@ -30,7 +30,7 @@ include('header.php');
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-xs-12 wow bounceInLeft">
-                        <img src="img/ava.png" alt="" width="400px">
+                        <img src="img/ava.png" alt="" width="300px" class="img-rounded">
                     </div>
                     <div class="col-md-6  col-xs-12 pad45 animated bounceInRight wow">
                         <p><b>Hi, i’m Paul Lapkin, Experience Crafter from Canada.</b></p>

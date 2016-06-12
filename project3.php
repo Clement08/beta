@@ -47,15 +47,14 @@ include('header.php');
              <iframe width="438" height="930" src="//invis.io/ET6NDUEVP" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
-        <div class="row pad25">
-            <div class="col-xs-12 col-md-6 makeevent_video">
-                <video src="img/makeevent.webm" controls class="img-responsive"></video>
+        <div class="row">
+            <div class="col-md-6 makeevent_video">
+                <iframe width="450" height="300" src="https://www.youtube.com/embed/bQAaejsxOew" frameborder="0" allowfullscreen></iframe>
             </div>
-            <div class="col-xs-12 col-md-6 text-center makeevent_video_title">
+            <div class=" col-md-6 text-center makeevent_video_title">
                 <h4>Video de présentation</h4>
                 <p>Vidéo réalisée pour présenter le concept de l'application, sous le format d'une pub de 30 secondes.</p>
             </div>
-
         </div>
     </div>
 </section>

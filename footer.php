@@ -24,6 +24,9 @@
 <script src="js/nav.min.js"></script>
 <script src="js/backtotop.min.js"></script>
 <script src="js/portfolio.min.js"></script>
+<script src="js/owl.js">
+
+</script>
 <script>
     $(function() {
         cbpFixedScrollLayout.init();
@@ -36,11 +39,12 @@
 </script>
 
 <script>
-  new WOW().init();
+    new WOW().init();
 </script>
 <script>
-$('.carousel').carousel();  
-</script>
+	$('.carousel').carousel({
+		interval: 3000
+	})
 </script>
 </body>
 </html>

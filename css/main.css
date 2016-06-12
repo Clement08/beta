@@ -497,6 +497,7 @@ svg {
   font-family: Roboto;
   font-weight: 700;
   color: #272822;
+  padding-bottom: 30px;
   position: relative;
   background-position: top center;
   background-repeat: no-repeat;
@@ -1261,4 +1262,3 @@ body,
 .item:nth-child(3) {
   background: #E46653;
 }
-
