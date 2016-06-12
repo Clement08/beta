@@ -6,22 +6,19 @@ include('header.php');
   <div class="container">
       <div class="row project1-infos">
           <div class="col-xs-12 col-md-6">
-
-              <p><b>Makeenvent</b> est un prototype réalisé dans le cadre de mes études sur <i>InVision</i>. Il s'agit d'une application mobile d'organisation d'évènement et plus précisément de <i>plan de table</i> pour des évènements familiaux (mariages, baptemes...) et professionnels (séminaires, réunion...).
-                  <br>
-              Pour un mariage, renseignez les informatins globales, choisissez une salle de fête, les caractéristiques des tables. Ensuite, renseignez le nom des mariés, les parents, les témoins, les amis, les collègues, la famille.
-                  <br>
-              Une fois votre <i>plan de table</i> créé, modifiez-le à votre guise (placements des invités, piste de danse, placement des couples, des enfants, les personnes à ne pas mettre à même table...).
-                  <br>
-              Enfin, <i>exportez</i> le plan, les marques places, et la liste des invités (table excel) format .zip ou .png, via mail, drive ou dropbox.
-              </p>
+            <h4>Jayce</h4>
+              <p><i>Création d’un jeu de piste immersif et interactif connecté avec les Beacons ayant pour but d’intégrer les oeuvres de la Défense afin de faire découvrir les oeuvres d’arts tout en se divertissant.</i></p>
+              <br>
+              <p>Jayce est une application mobile iOS gamifiée qui a pour but de faire découvrir les oeuvres d’art de la Défense. L’utilisateur suit les consignes de Jayce, un mystérieux personnage s’étant fait kidnappé. Avec les instructions qu’elle donne à l’utilisateur, ce dernier suit un parcours prédéfini et doit résoudre des énigmes contenues dans des Beacons.</p>
+              <br>
+              <p>Les iBeacons sont des balises de géolocalisation qui émettent un signal via le blutooth. Elles permettent de détecter et d'interagir avec un utilisateur, sur son smartphone par exemple. Dans le cadre de Jayce, les balises sont à trouver par le joueur sur les oeuvres d'art du quatier de la Défense, et déclenchent la suite du jeu sur le smartphone.</p>
 
               <div class="row pad15">
                   <div class="col-xs-1">
                       <i class="fa fa-clock-o" aria-hidden="true"></i>
                   </div>
                   <div class="col-xs-6">
-                      <p>Une semaine</p>
+                      <p>4 mois</p>
                   </div>
               </div>
               <div class="row pad15">
@@ -29,7 +26,7 @@ include('header.php');
                       <i class="fa fa-desktop" aria-hidden="true"></i>
                   </div>
                   <div class="col-xs-6">
-                      <p>InVision, Photoshop, Balsamiq</p>
+                      <p>jQuerry Mobile, Beacondo, Photoshop, Github</p>
                   </div>
               </div>
               <div class="row pad15">
@@ -38,7 +35,7 @@ include('header.php');
 
                   </div>
                   <div class="col-xs-6">
-                      <p>2 Graphistes, 2 Web, 1 designer interractif</p>
+                      <p>3 game designer, 3 designer interactif, 2 développeurs, 1 graphiste</p>
                   </div>
               </div>
           </div>
@@ -47,6 +44,43 @@ include('header.php');
           </div>
       </div>
   </div>
+    <div class="container">
+        <div class="carousel" id="owl-demo">
+            <div class="item">
+                <img src="img/screen1.jpg" alt="" width="100%" data-hash="zero">
+            </div>
+            <div class="item">
+                <img src="img/screen2.jpg" alt="" width="100%">
+            </div>
+            <div class="item">
+                <img src="img/screen3.jpg" alt="" width="100%">
+            </div>
+            <div class="item">
+                <img src="img/screen4.jpg" alt="" width="100%">
+            </div>
+            <div class="item">
+                <img src="img/screen5.jpg" alt="" width="100%">
+            </div>
+            <div class="item">
+                <img src="img/screen6.jpg" alt="" width="100%">
+            </div>
+            <div class="item">
+                <img src="img/screen7.jpg" alt="" width="100%">
+            </div>
+            <div class="item">
+                <img src="img/screen8.jpg" alt="" width="100%">
+            </div>
+            <div class="item">
+                <img src="img/screen9.jpg" alt="" width="100%">
+            </div>
+            <div class="item">
+                <img src="img/screen10.jpg" alt="" width="100%">
+            </div>
+            <div class="item">
+                <img src="img/screen11.jpg" alt="" width="100%">
+            </div>
+        </div>
+    </div>
 </section>
 
 <?php

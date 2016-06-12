@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
 <body>

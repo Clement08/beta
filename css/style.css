@@ -113,6 +113,17 @@
   letter-spacing: 1px;
   margin: 0 auto;
 }
-#project1 .project1-app {
-  padding-top: 20vh;
+#project1 .project1-infos h4 {
+  text-transform: uppercase;
+  font-family: amethyst;
+  font-size: 5em;
+  color: white;
+  font-weight: 200;
+}
+#project1 .project1-infos i {
+  color: white;
+}
+#project1 .carousel {
+  padding-top: 15vh;
+  padding-bottom: 15vh;
 }

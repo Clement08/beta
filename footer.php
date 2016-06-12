@@ -24,9 +24,7 @@
 <script src="js/nav.min.js"></script>
 <script src="js/backtotop.min.js"></script>
 <script src="js/portfolio.min.js"></script>
-<script src="js/owl.js">
-
-</script>
+<script src="js/owl.carousel.min.js"></script>
 <script>
     $(function() {
         cbpFixedScrollLayout.init();
@@ -42,9 +40,27 @@
     new WOW().init();
 </script>
 <script>
-	$('.carousel').carousel({
-		interval: 3000
-	})
+    (function($){
+        $('.carousel').owlCarousel({
+           items: 3,
+            autoPlay: 3000, //Set AutoPlay to 3 seconds
+            dots: true,
+            margin:30,
+            responsive:{
+                0:{
+                    items:1
+                },
+                768:{
+                    items:2,
+                    margin:30
+                },
+                992:{
+                    items:3,
+                    margin:40
+                }
+            }
+        });
+    })(jQuery);
 </script>
 </body>
 </html>

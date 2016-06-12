@@ -25,6 +25,10 @@
   font-family: raleway_black;
   src: url(../font/raleway/Raleway-Black.ttf);
 }
+@font-face {
+  font-family: amethyst;
+  src: url(../font/Amethyst.ttf);
+}
 /**** PADDING ****/
 .padvh25 {
   padding-top: 25vh;
